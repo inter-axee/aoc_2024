@@ -42,9 +42,5 @@ for (i = 0; i < firstlist.length; i++) {
     acc += Math.abs(firstlist[i] - secondlist[i]);
 }
 
-
 console.log(acc);
-
-
 console.log(acc2);
-
